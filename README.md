@@ -10,24 +10,24 @@ Leaving in Metro Nashville area, you often hear people talk about the constant t
 
 ## Data Sources
 * [U.S Census Bureau website](https://www.census.gov/programs-surveys.html)
-       * [County Population Totals: 2010-2020]
-       * [Annual Estimates of the Resident Population for Counties from April 1, 2010, to July 1, 2019, for individual states]
-       * [Annual Estimates of the Resident Population for Counties from April 1, 2020, to July 1, 2021, for individual states]
-       * [Core based statistical areas (CBSAs), metropolitan divisions, and combined statistical areas (CSAs) ] ()
+       * County Population Totals: 2010-2020
+       * Annual Estimates of the Resident Population for Counties from April 1, 2010, to July 1, 2019, for individual states
+       * Annual Estimates of the Resident Population for Counties from April 1, 2020, to July 1, 2021, for individual states
+       * Core based statistical areas (CBSAs), metropolitan divisions, and combined statistical areas (CSAs)
 * Crash Data Files
-       * [TN Department of Safety & Homeland Security](https://www.tn.gov/safety/stats/crashdata.html)
-       * [Texas Department of Transportation](https://www.txdot.gov/inside-txdot.html)
-       * [Georgia Department of Transportation (GDOT)](https://gdot.numetric.net/)
-       * [Florida Highway Safety and Motor Vehicles (FLHSMV)](https://www.flhsmv.gov)
-       * [North Carolina Department of Transportation (NCDOT)](https://connect.ncdot.gov/resources/safety/) 
+                 * [TN Department of Safety & Homeland Security](https://www.tn.gov/safety/stats/crashdata.html)
+                 * [Texas Department of Transportation](https://www.txdot.gov/inside-txdot.html)
+                 * [Georgia Department of Transportation (GDOT)](https://gdot.numetric.net/)
+                 * [Florida Highway Safety and Motor Vehicles (FLHSMV)](https://www.flhsmv.gov)
+                 * [North Carolina Department of Transportation (NCDOT)](https://connect.ncdot.gov/resources/safety/) 
  
  
 ## Data Analysis and Tools
 - Python
-      * Analyzed “County Population totals from 2010-2020”, to identify states with the largest number of counties that fall into the top 25% of total population growth category, that are also a part of a Metropolitan Statistical Area
-      * Utilized RegEx and PDFPlumber to pull crash data from state crash reports
-      * Merged crashed dataframes with county population and CBSA data
-      * Pandas dataframe.corr() to determine if there’s a correlation between population growth and total crashes
+       * Analyzed “County Population totals from 2010-2020”, to identify states with the largest number of counties that fall into the top 25% of total population growth category, that are also a part of a Metropolitan Statistical Area
+       * Utilized RegEx and PDFPlumber to pull crash data from state crash reports
+       * Merged crashed dataframes with county population and CBSA data
+       * Pandas dataframe.corr() to determine if there’s a correlation between population growth and total crashes
 
 - Excel
       * Data Storing
