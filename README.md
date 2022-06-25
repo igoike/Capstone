@@ -29,9 +29,14 @@ Leaving in Metro Nashville area, you often hear people talk about the constant t
     * Utilized RegEx and PDFPlumber to pull crash data from state crash reports
     * Merged crashed dataframes with county population and CBSA data
     * Pandas dataframe.corr() to determine if there’s a correlation between population growth and total crashes
+<<<<<<< HEAD
 
 ![Number of Counties by State](/visuals/top10_states.png)
 
+=======
+    
+![Number of Counties by State](/visuals/top10_states.png)
+>>>>>>> f8d66abf64d378823ed3e79aac96584f5ca84f8d
 
 - Excel
     * Data Storing
