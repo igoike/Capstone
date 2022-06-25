@@ -30,7 +30,7 @@ Leaving in Metro Nashville area, you often hear people talk about the constant t
     * Merged crashed dataframes with county population and CBSA data
     * Pandas dataframe.corr() to determine if there’s a correlation between population growth and total crashes
 
-    ![County Population Analysis](/visuals/top10_states.png)
+![Number of Counties by State](/visuals/top10_states.png)
 
 
 - Excel
@@ -50,5 +50,5 @@ Leaving in Metro Nashville area, you often hear people talk about the constant t
 
 ## Tableau Dashboard
 
-
+[Tableau Dashboard](https://public.tableau.com/app/profile/iulia.goike/viz/populationgrowtheffectsoncaraccidents/Capstone_Presentation?publish=yes)
 
