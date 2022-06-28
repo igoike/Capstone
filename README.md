@@ -6,7 +6,7 @@
 ## Motivation
 Motor Vehicle Crashes cause significant social harm and economic losses.
 On average, there are 6.75 million car accidents in the U.S. every year. That’s roughly ​18,510 per day. Around 38,000 people die in automobile crashes on annual basis and an additional 3 million are injured or disabled.
-Leaving in Metro Nashville area, you often hear people talk about the constant traffic accidents and how so many people are moving here every day. That made me wonder if it’s something worth looking into, if there’s any interesting patterns that can be found by combining population data with car accident reports.
+Living in Metro Nashville area, you often hear people talk about the constant traffic accidents and how so many people are moving here every day. That made me wonder if it’s something worth looking into, if there’s any interesting patterns that can be found by combining population data with car accident reports.
 
 ## Data Sources
 - [U.S Census Bureau website](https://www.census.gov/programs-surveys.html)
